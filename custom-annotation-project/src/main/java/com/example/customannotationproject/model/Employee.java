@@ -6,6 +6,7 @@ import com.example.customannotationproject.NameValidator;
 public class Employee {
 
     private int id;
+    private String Demo;
     private String firstName;
     private String middleName;
     private String lastName;
